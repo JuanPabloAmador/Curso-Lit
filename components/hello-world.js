@@ -27,9 +27,9 @@ class HelloWorld extends LitElement {
 
   constructor() {
     super();
-    // this.title = 'Hello world';
-    // this.description = 'Esto es un parrafo';
-    // this.counter = 0;
+    this.title = 'Hello world';
+    this.description = 'Esto es un parrafo';
+    this.counter = 0;
   }
 
   render() {
